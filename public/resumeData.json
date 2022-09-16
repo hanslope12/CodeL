@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"CodeL",
+    "description":"I am a Software Engineer specializing in C# development as well as database management. I also have experience on webdevelopment using Reactjs and Angularjs",
+    "image":"profilepic.jpg",
+    "bio":"I've been coding since 2018, starting off with languages such as C++, C#, Java, HTML, and CSS, although I've decided to focus on C# after discovering its object-oriented programming style, along with how clean the language is. I've also developed quite a few applications such as POS and other small scale personal applications, while I've started to dabble with web development in 2022.",
+    "contactmessage":"Currently a work in progress don't use the form",
+    "email": "Hanslope12@gmail.com",
+    "phone": "(+63)9271409033",
+    "github":"https://github.com/hanslope12",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "city":"Makati",
+      "state":"Philippines",
+      "zip": "1209"
+    },
+    "website": "https://github.com/hanslope12",
+    "resumedownload":"https://github.com/hanslope12",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/hanslope12",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/CodeHNL",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hans-lope-55344b235/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/hanslope12",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "work":[
+      {
+        "company":"Upwork",
+        "title":"Freelancer",
+        "years":"July 2022",
+        "description":"Full-stack developer with experience on the technologies C#, SQL, Angular, React, and JavaScript"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Angular",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"MSSQL",
+        "level":"60%"
+      },
+      {
+        "name":"JS",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Watermark Application",
+        "category":"Basic Application Created for a client",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"GameSearch Engine",
+        "category":"Application I made to learn Angular development",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Employee Management Application(WIP)",
+        "category":"Application I made to learn React as well as C# api",
+        "image":"03.png",
+        "url":""
+      },
+      {
+        "title":"Local Chat Application",
+        "category":"Created to learn WPF and binding",
+        "image":"04.jpg",
+        "url":""
+      }
+    ]
+  }
+}
