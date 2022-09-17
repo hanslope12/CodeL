@@ -12,7 +12,7 @@ class Contact extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const message = this.props.data.contactmessage;
-
+    const email = this.props.data.email;
     return (
       <section id="contact">
         <Fade bottom duration={1000}>
@@ -114,6 +114,8 @@ class Contact extends Component {
                   {city}, {state} {zip}
                   <br />
                   <span>{phone}</span>
+                  <br />
+                  <span>{email}</span>
                 </p>
               </div>
             </aside>
