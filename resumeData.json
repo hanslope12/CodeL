@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"CodeL",
-    "description":"I am a Software Engineer specializing in C# development as well as database management. I also have experience on webdevelopment using Reactjs and Angularjs",
+    "description":"I am a Software Engineer specializing in C# development as well as database management. I also have experience on web development using ReactJs and AngularJs",
     "image":"profilepic.jpg",
     "bio":"I've been coding since 2018, starting off with languages such as C++, C#, Java, HTML, and CSS, although I've decided to focus on C# after discovering its object-oriented programming style, along with how clean the language is. I've also developed quite a few applications such as POS and other small scale personal applications, while I've started to dabble with web development in 2022.",
     "contactmessage":"Currently a work in progress don't use the form",
